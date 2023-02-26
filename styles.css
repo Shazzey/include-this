@@ -9,6 +9,10 @@ p {
     box-sizing: border-box;
 }
 
+b2 {
+    color: green;
+}
+
 @media (min-width: 701px) {
     .left {
         box-sizing: border-box;
@@ -51,3 +55,4 @@ p {
 reg {
    padding: 10px; 
 }
+
