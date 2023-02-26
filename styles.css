@@ -1,4 +1,6 @@
 h1 {
+    box-sizing: border-box;
+    width: 50%;
     font-size: 20px;
 }
 
